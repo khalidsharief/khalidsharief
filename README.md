@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khalidsharief
-- 👀 I’m interested in python, data science and machine learning 
-- 🌱 I’m currently learning how to code with python and R language
-- 💞️ I’m looking to collaborate on subjects that I'm trying to learn
+- 👀 I’m interested in python, data science and data analysis.
+- 🌱 I’m currently learning how to code with python.
+- 💞️ I’m looking to collaborate on subjects that I'm trying to learn.
 
 
 <!---
